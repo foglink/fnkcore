@@ -1,2 +1,2 @@
-# FNK core
-The FNK core project
+# FNKOS core
+The FNKOS core project
